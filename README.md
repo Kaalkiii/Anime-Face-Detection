@@ -1,8 +1,8 @@
-Anime Face Detection
+# Anime Face Detection
 
 AnimeFaceDetection is a deep learning-based project that detects anime faces in images using modern computer vision techniques. It leverages pre-trained models and deep learning frameworks to accurately identify and localize anime-style faces.
 
-Features
+# Features
 
 Accurate Face Detection: Uses state-of-the-art deep learning models to detect anime faces.
 
